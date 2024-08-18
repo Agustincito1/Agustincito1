@@ -1,5 +1,5 @@
 
-<div witdh="400" align="center">
+<div witdh="400">
 
 - <h4> languages </h4>
 
