@@ -7,9 +7,9 @@
 <p align="left"> 
 <h2 width="50px">  About me </h2>
 
-- ⭐ Currently working on **web-development**
-- 💀 Mostly working on **private repositories**
-- 👾 A **student** working his way around things
+- 🟣 Currently working on **web-development**
+- 🟣 Mostly working on **private repositories**
+- 🟣 A **student** working his way around things
 
 <h2 width="50px">  Current skills  </h2>
 
