@@ -2,6 +2,7 @@
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/rcRgvgx.jpg"/>
+<img align="left" width="400" alt="Shimarin" src="https://i.imgur.com/rcRgvgx.jpg"/>
 
 <p align="left"> 
 <h2 width="50px">  About me </h2>
