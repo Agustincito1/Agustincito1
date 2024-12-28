@@ -39,9 +39,7 @@
  <a href="https://www.linkedin.com/in/agustin-lazaro-ardeola-de-olivera-98737b30a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-  
-<a href="agustinlazari594@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt= mail style="margin-bottom: 5px;" />
+ 
 </a>
 
 
