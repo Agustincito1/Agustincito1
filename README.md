@@ -28,7 +28,8 @@
 
     - <h5> What I want to study </h5>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> </a>  
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+     <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="Tailwind" width="50" height="40"/> </a> 
 </p>
 </br>
 </br>
