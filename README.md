@@ -1,7 +1,7 @@
 <p align = center ><img  width="340px" src="https://i.imgur.com/gz6gFAF.png"> </p>
 <div>
 
-<img align="right" width="400" alt="Shimarin" src="https://i.imgur.com/rcRgvgx.jpg"/>
+<img align="right" width="400" alt="Shimarin" src=""/>
 
 
 <p align="left"> 
