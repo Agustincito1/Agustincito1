@@ -1,4 +1,4 @@
-<p align = center ><img  width="340px" src="https://imgur.com/a/yRxhUSp"><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> </p>
+<p align = center ><img  width="340px" src="https://imgur.com/a/yRxhUSp.png"> </p>
 <div>
 
 <img align="right" width="400" alt="Shimarin" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8553a5ff-ec10-48b0-ab92-3d7237628a0d/df2k0vz-b3937083-33dd-46f3-83cd-d95bb41a2d9f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg1NTNhNWZmLWVjMTAtNDhiMC1hYjkyLTNkNzIzNzYyOGEwZFwvZGYyazB2ei1iMzkzNzA4My0zM2RkLTQ2ZjMtODNjZC1kOTViYjQxYTJkOWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JnMaE_nnK5T0xxyao8_YQWeC0wP8V6j6NTh3jUTLksw"/>
