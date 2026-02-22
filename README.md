@@ -10,7 +10,7 @@
 - 🟣 Currently working on **web-development**
 - 🟣 Mostly working on **private repositories**
 - 🟣 A **student** working his way around things
-
+- 🟣 Son of God
 <h2 width="50px">  Current skills  </h2>
 
 - <h4 > Languages </h4>
