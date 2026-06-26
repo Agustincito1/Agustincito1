@@ -11,7 +11,7 @@
 - 🟣 Mostly working on **private repositories**
 - 🟣 A **student** working his way around things
 - 🟣 Son of God
-- 🟣 My future proyect <a href="https://musicchord.page.gd/" target="_BLANK">MUSICCHORD</a>
+- 🟣 My future proyect <a href="https://musicchord.page.gd/" target="_BLANK" rel="noopener noreferrer" style="color: #9d4edd; text-decoration: none; font-weight: bold; font-family: sans-serif; transition: color 0.2s ease-in-out;" onmouseover="this.style.color='#c77dff';" onmouseout="this.style.color='#9d4edd';">MUSICCHORD</a>
 <h2 width="50px">  Current skills  </h2>
 
 - <h4 > Languages </h4>
