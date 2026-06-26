@@ -11,6 +11,7 @@
 - 🟣 Mostly working on **private repositories**
 - 🟣 A **student** working his way around things
 - 🟣 Son of God
+- 🟣 My future proyect <a href="https://musicchord.page.gd/" target="_BLANK">MUSICCHORD</a>
 <h2 width="50px">  Current skills  </h2>
 
 - <h4 > Languages </h4>
@@ -44,4 +45,4 @@
 
 </div>
 
-Last edited 18/08/2024
+Last edited 25/06/2026
